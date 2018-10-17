@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
     ~ Copyright (C) 2013 tarent AG
     ~
@@ -87,7 +87,7 @@
         <dependency>
             <groupId>org.apache.tika</groupId>
             <artifactId>tika-core</artifactId>
-            <version>1.10</version>
+            <version>1.19.1</version>
         </dependency>
 
         <dependency>
